@@ -1,0 +1,5 @@
+<keymap version="1" name="macOS 副本" parent="Mac OS X 10.5+">
+  <action id="NewDirectoryProject">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+</keymap>
